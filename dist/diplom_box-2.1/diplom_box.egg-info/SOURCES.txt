@@ -1,0 +1,10 @@
+MANIFEST.in
+requirements.txt
+setup.py
+diplom_box.egg-info/PKG-INFO
+diplom_box.egg-info/SOURCES.txt
+diplom_box.egg-info/dependency_links.txt
+diplom_box.egg-info/top_level.txt
+full_scripts/__init__.py
+full_scripts/directory_check.py
+full_scripts/downloading.py
